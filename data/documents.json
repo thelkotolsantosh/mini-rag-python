@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "RAG: Retrieval-Augmented Generation",
+    "content": "Retrieval-Augmented Generation, usually called RAG, combines information retrieval with language generation. A retriever first finds relevant information and that context can then be supplied to a language model."
+  },
+  {
+    "id": 2,
+    "title": "Vector Databases",
+    "content": "A vector database stores numerical vector representations of data. RAG systems often use vector databases to find documents whose embeddings are similar to the embedding of a user's question."
+  },
+  {
+    "id": 3,
+    "title": "Embeddings",
+    "content": "Embeddings are numerical representations of text, images, or other data. Texts with similar meanings are often located near each other in embedding space."
+  },
+  {
+    "id": 4,
+    "title": "Cosine Similarity",
+    "content": "Cosine similarity compares the direction of two vectors. It is commonly used in information retrieval to estimate how similar a query vector is to a document vector."
+  },
+  {
+    "id": 5,
+    "title": "Python",
+    "content": "Python is a popular programming language for artificial intelligence, data science, automation, machine learning, natural language processing, and RAG applications."
+  }
+]

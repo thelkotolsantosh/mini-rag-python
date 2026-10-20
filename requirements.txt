@@ -1,0 +1,2 @@
+# No third-party packages are required to run the application.
+# The project uses only the Python standard library.
